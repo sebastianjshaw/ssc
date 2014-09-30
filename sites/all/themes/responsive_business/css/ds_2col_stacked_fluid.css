@@ -1,0 +1,34 @@
+
+.group-header {
+}
+
+.group-left {
+  float: left;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+.group-right {
+  float: right;
+  width: 45%;
+}
+
+.group-one-column .group-left,
+.group-one-column .group-right {
+	width: 100%;
+	float: none;
+} 
+
+.group-footer {
+  clear: both;
+}
+
+
+.field.field-name-field-image.field-type-image.field-label-hidden{
+border: 5px #444 solid;
+}
+
+.field-type-link-field {
+border-bottom: 1px black solid;
+margin-bottom: 10px;
+}
